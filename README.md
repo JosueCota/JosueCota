@@ -1,7 +1,3 @@
-**Yo**  
-I'm a CS major who enjoys anime and games  
-Arduinos are <sup>cool</sup>   
-``` Discord : @SideTracked#1737 ```
 
 <!---
 Side-e/Side-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
