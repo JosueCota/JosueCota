@@ -1,6 +1,6 @@
-Yo  
-I'm a CS major who likes anime and games  
-Arduinos are also fun  
+**Yo**  
+I'm a CS major who enjoys anime and games  
+Arduinos are <sup>cool</sup>   
 ``` Discord : @SideTracked#1737 ```
 
 <!---
