@@ -6,8 +6,8 @@
     <h2>What do I know?</h3>
   <p>
 
-  <details>
-    <summary> <h4>Languages:</h4> </summary>
+  <details> 
+    <summary> Languages </summary>
   <ul>
       <li>Python</li>
       <li>C++</li>
@@ -20,7 +20,7 @@
   </ul>  
   </details>
   <details>
-    <summary> <h4>Tools/Technlogies:</h4> </summary>
+    <summary> Tools/Technlogies: </summary>
   <ul>
       <li>Github</li>
       <li>Android Studio</li>
