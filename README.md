@@ -30,6 +30,7 @@
       <li>VSCode</li>
       <li>Figma</li>
       <li>Postman</li>
+      <li>React</li>
   </ul>  
   </details>
   </p>
