@@ -4,8 +4,6 @@
   experience for furthering my career!
 </p>
     <h2>What do I know?</h3>
-  <p>
-
   <details> 
     <summary> Languages </summary>
   <ul>
@@ -16,7 +14,6 @@
       <li>Java</li>
       <li>Javascript</li>
       <li>SQL</li>
-
   </ul>  
   </details>
   <details>
@@ -33,4 +30,8 @@
       <li>React</li>
   </ul>  
   </details>
-  </p>
+  <p align=center>
+<a  href="https://github.com/JosueCota/convoychat">
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueCota&layout=compact&langs_count=8&card_width=320&hide=ShaderLab,hlsl" />
+</a>
+</p>
