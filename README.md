@@ -1,4 +1,6 @@
 <h1><div align="center">Hello! I'm Josue Cota</div></h1>
 <p align="justify">
-  I've completed my bachelors in computer science at CSUF. Going forward, I am mainly interested in web development and app development but willing to do anything related to software engineering. On my off time, I like to play video games, read, and explore the robotics field. Currently eagerly seeking opportunities to further my career as a software engineer!
+  Graduated with a B.S. in Computer Science from California State University, Fullerton, with a strong focus on web and mobile application development. I have experience designing and building user-centered, scalable applications with an emphasis on performance, accessibility, and real-world impact.
+
+In September 2025, I founded Thrivital LLC, a technology-driven company dedicated to creating meaningful applications that address real challenges and deliver tangible value to individuals and communities in need. I am passionate about leveraging technology to solve problems, improve lives, and drive positive change through thoughtful, well-engineered solutions.
 </p>
