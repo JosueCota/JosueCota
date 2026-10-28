@@ -2,5 +2,9 @@
 <p align="justify">
   Graduated with a B.S. in Computer Science from California State University, Fullerton, with a strong focus on web and mobile application development. I have experience designing and building user-centered, scalable applications with an emphasis on performance, accessibility, and real-world impact.
 
-In September 2025, I founded Thrivital LLC, a technology-driven company dedicated to creating meaningful applications that address real challenges and deliver tangible value to individuals and communities in need. I am passionate about leveraging technology to solve problems, improve lives, and drive positive change through thoughtful, well-engineered solutions.
+In September 2025, I founded Thrivital LLC, a technology-driven company dedicated to creating meaningful applications that address real challenges and deliver tangible value to individuals and communities in need. 
+
+I am currently also working as a Programming Specialist for Palenque Group, assisting in the automation of various tasks and handling data in order to provide relevant and helpful reports for other employees.
+
+I am deeply passionate about leveraging technology to solve problems, improve lives, and drive positive change through thoughtful, well-engineered solutions.
 </p>
